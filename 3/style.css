@@ -1,0 +1,39 @@
+
+table{
+    border-collapse: collapse;
+}
+.btn{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #dc3545;
+    border-radius: 5px;
+    text-align: right;
+ }
+.btn:hover{
+     background-color: #f10c23;
+ }
+.btn1{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #28a745;
+     border-radius: 5px;
+     }
+.btn1:hover{
+        background-color: #0cf041;
+     }
+.btn2{
+    text-decoration: none;
+    padding: 10px 15px;
+    background-color: #ffc107;
+     border-radius: 5px;
+ }
+.btn2:hover{
+    background-color: #b99803;
+}
+ .add{
+     background-color: #ededed;
+ }
+ table td, table th{
+    padding: 20px 100px 20px 15px;
+    font-size: 20px;
+}

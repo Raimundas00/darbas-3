@@ -1,0 +1,28 @@
+body{
+    background-color: #2b3035;
+    color: white;
+}
+thead tr{
+    background-color: #343a40;
+    color: #ededee;
+}
+table{
+    background-color: #343a40;
+    border-collapse: collapse;
+}
+tbody :hover{
+    background-color: #52585e;
+}
+table td, table th{
+    padding: 20px 100px 20px 15px;
+
+}
+th{
+ 
+    border-bottom: 5px solid #2b3035;
+    font-size: 14px; 
+}
+td{
+   border-bottom: 5px solid #2b3035;
+    font-size: 14px; 
+    }
